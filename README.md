@@ -1,47 +1,16 @@
-# Web Development Project 4 - NASA Image Generator
+# NASA Image Generator
 
-Submitted by: Michelle Liu
-
-This web app: Fetch random NASA images from Astronomy Picture of the Day NASA API
-
-Time spent: 4 hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [X] **Only one item/API call is viewable at a time**
-- [X] **API calls appear random to the user**
-- [X] **At least one image is displayed per API call**
-- [X] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
-- [X] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
-
-The following **optional** features are implemented:
-
-- [X] Multiple types of attributes can be added to the ban list
-- [ ] Users can see a stored history of their previously viewed items from their session
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+Fetch random NASA images from NASA' Astronomy Picture of the Day NASA API in this web app! Other features include the ability to add certain image tags to banlists.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
 <img src='https://i.imgur.com/jIS8dEa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Utilize's [NASA API](https://api.nasa.gov/) for Astronomy Picture of the Day.
 
 ## License
 
